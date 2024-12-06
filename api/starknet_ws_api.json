@@ -316,9 +316,7 @@
             "$ref": "./api/starknet_api_openrpc.json#/components/schemas/TXN_HASH"
           },
           "status": {
-            "schema": {
-              "$ref": "./api/starknet_api_openrpc.json#/components/schemas/TXN_STATUS_RESULT"
-            }
+            "$ref": "./api/starknet_api_openrpc.json#/components/schemas/TXN_STATUS_RESULT"
           }
         }
       },
